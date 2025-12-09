@@ -1,6 +1,6 @@
-# ragdanews
+# ragda_news
 
-A new Flutter project.
+A new Flutter News project.
 
 ## Getting Started
 
